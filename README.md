@@ -37,6 +37,11 @@
 ### ▪ Codestates Frontend Bootcamp (2023.02~2023.08)
 ### ▪ 동국대학교 멀티미디어공학과 (2017.03~2024.08)
     전자전기공학부 복수전공
+<br /><br /><br /><br />
+
+## 📪 Contact
+[![Email](https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:your_fmaxgo@naver.com)[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/king_gyeonghoo)[![Blog](https://img.shields.io/badge/Blog-ff5a4a?style=for-the-badge&logo=tistory&logoColor=white)](https://www.instagram.com/king_gyeonghoo)
+
 
 
 
