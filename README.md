@@ -2,10 +2,10 @@
 <div>
   <div align="center" height="200">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=KingGyeongHoo&theme=vue" alt="KingGyeongHoo's GitHub stats"  width="469">
+      <img src="https://github-readme-stats.vercel.app/api?username=KingGyeongHoo&theme=vue&hide_border=true" alt="KingGyeongHoo's GitHub stats"  width="469">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingGyeongHoo&layout=donut" alt="Top Languages"  width="331">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingGyeongHoo&layout=donut&hide_border=true" alt="Top Languages"  width="331">
     </a>
   </div>
   <div align="center">
