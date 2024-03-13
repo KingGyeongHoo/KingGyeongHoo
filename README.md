@@ -26,3 +26,7 @@
 ### ▪ Codestates Frontend Bootcamp (2023.02~2023.08)
 ### ▪ 동국대학교 멀티미디어공학과 (2017.03~2024.08)
 전자전기공학부 복수전공
+
+## 📢 Other Informations 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingGyeongHoo&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
