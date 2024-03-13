@@ -1,5 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=F1FADA&fontColor=9AD0C2&height=200&section=header&text=KingGH's%20Github&fontSize=60&animation=fadeIn)
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingGyeongHoo&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)-->
+<div>
+  <div align="center" height="200">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=KingGyeongHoo&theme=vue" alt="KingGyeongHoo's GitHub stats"  width="590">
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingGyeongHoo&layout=donut" alt="Top Languages"  width="417">
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=KingGyeongHoo&bg_color=ffffff&color=273849&line=d9f0e5&point=5fc397" alt="KingGyeongHoo" width="1007">
+    </a>
+  </div>
+</div>
 
 ---
 ## 🛠 Tech Stacks
@@ -9,26 +23,20 @@
 <img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"><img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"><img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"><img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 ### ▪ Tools
 <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"><img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"><img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"><img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"><img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
-<br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br />
 ## 📋 Projects
 ### ▪ Portfolio (2024.02~2024.03)
-[ [Deploy](https://ghsong.netlify.app/) | [Github](https://github.com/KingGyeongHoo/portfolio) ]
-
-*프론트엔드 개발자 송경후의 개인 포트폴리오 사이트입니다.*
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KingGyeongHoo&repo=portfolio)](https://github.com/anuraghazra/github-readme-stats)
 ### ▪ CPM (2024.01~2024.02)
-[ [Deploy](https://cpm-map.netlify.app/) | [Github](https://github.com/KingGyeongHoo/cpm) ]
-
-*전기차, 핸드폰보다 빠르게 충전하자! 한눈에 보는 전기차 지도.*
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KingGyeongHoo&repo=cpm)](https://github.com/anuraghazra/github-readme-stats)
 ### ▪ Buyrricade (2023.06~2024.07)
-[ [Deploy](https://buyrricade.netlify.app/) | [Github](https://github.com/KingGyeongHoo/seb44_main_007) ]
-
-*재무관리를 도와주는 똑똑한 가계부, Buyrricade.*
-<br /><br /><br /><br /><br /><br />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KingGyeongHoo&repo=seb44_main_007)](https://github.com/anuraghazra/github-readme-stats)
+<br /><br /><br /><br />
 
 ## 📙 Education
 ### ▪ Codestates Frontend Bootcamp (2023.02~2023.08)
 ### ▪ 동국대학교 멀티미디어공학과 (2017.03~2024.08)
-전자전기공학부 복수전공
+    전자전기공학부 복수전공
 
 
 
