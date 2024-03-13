@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=FAEED1&fontColor=607274&height=200&section=header&text=KingGH's%20Github&fontSize=60&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=venom&color=F1FADA&fontColor=9AD0C2&height=200&section=header&text=KingGH's%20Github&fontSize=60&animation=fadeIn)
 
 ## 🛠 Tech Stacks
 ### ▪ Frontend
