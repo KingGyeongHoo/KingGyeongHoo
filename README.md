@@ -40,7 +40,7 @@
 <br /><br /><br /><br />
 
 ## 📪 Contact
-[![Email](https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:your_fmaxgo@naver.com)[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/king_gyeonghoo)[![Blog](https://img.shields.io/badge/Blog-ff5a4a?style=for-the-badge&logo=tistory&logoColor=white)](https://www.instagram.com/king_gyeonghoo)
+[![Email](https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:your_fmaxgo@naver.com)[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/king_gyeonghoo)[![Blog](https://img.shields.io/badge/Blog-ff5a4a?style=for-the-badge&logo=tistory&logoColor=white)](https://kinggh.tistory.com/)
 
 
 
