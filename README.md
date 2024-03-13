@@ -2,15 +2,15 @@
 <div>
   <div align="center" height="200">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=KingGyeongHoo&theme=vue" alt="KingGyeongHoo's GitHub stats"  width="590">
+      <img src="https://github-readme-stats.vercel.app/api?username=KingGyeongHoo&theme=vue" alt="KingGyeongHoo's GitHub stats"  width="469">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingGyeongHoo&layout=donut" alt="Top Languages"  width="417">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingGyeongHoo&layout=donut" alt="Top Languages"  width="331">
     </a>
   </div>
-  <div>
+  <div align="center">
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=KingGyeongHoo&bg_color=ffffff&color=273849&line=d9f0e5&point=5fc397" alt="KingGyeongHoo" width="1007">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=KingGyeongHoo&bg_color=ffffff&color=273849&line=d9f0e5&point=5fc397" alt="KingGyeongHoo" width="800">
     </a>
   </div>
 </div>
