@@ -26,11 +26,11 @@
 <br /><br /><br /><br />
 ## 📋 Projects
 ### ▪ Portfolio (2024.02~2024.03)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KingGyeongHoo&repo=portfolio)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KingGyeongHoo&repo=portfolio)](https://github.com/KingGyeongHoo/portfolio)
 ### ▪ CPM (2024.01~2024.02)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KingGyeongHoo&repo=cpm)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KingGyeongHoo&repo=cpm)](https://github.com/KingGyeongHoo/cpm)
 ### ▪ Buyrricade (2023.06~2024.07)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KingGyeongHoo&repo=seb44_main_007)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KingGyeongHoo&repo=seb44_main_007)](https://github.com/KingGyeongHoo/seb44_main_007)
 <br /><br /><br /><br />
 
 ## 📙 Education
