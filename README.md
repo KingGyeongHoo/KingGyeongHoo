@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=F1FADA&fontColor=9AD0C2&height=200&section=header&text=프론트엔드%20개발자%20송경후입니다&fontSize=60&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=venom&color=F1FADA&fontColor=9AD0C2&height=200&section=header&text=Frontend%20Engineer%20GH.Song&fontSize=60&animation=fadeIn)
 <div>
   <div align="center" height="200">
     <a href="https://github.com/anuraghazra/github-readme-stats">
