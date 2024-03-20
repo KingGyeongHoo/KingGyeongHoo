@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=F1FADA&fontColor=9AD0C2&height=200&section=header&text=KingGH's%20Github&fontSize=60&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=venom&color=F1FADA&fontColor=9AD0C2&height=200&section=header&text=프론트엔드%20개발자%20송경후입니다&fontSize=60&animation=fadeIn)
 <div>
   <div align="center" height="200">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=KingGyeongHoo&theme=vue&hide_border=true" alt="프론트엔드 개발자 송경후입니다"  width="469">
+      <img src="https://github-readme-stats.vercel.app/api?username=KingGyeongHoo&theme=vue&hide_border=true" alt="KingGyeongHoo's GitHub stats"  width="469">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingGyeongHoo&layout=donut&hide_border=true" alt="Top Languages"  width="331">
