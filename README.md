@@ -34,6 +34,10 @@
 ### ▪ Buyrricade (2023.06~2024.07)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KingGyeongHoo&repo=seb44_main_007)](https://github.com/KingGyeongHoo/seb44_main_007)
 <br /><br /><br /><br />
+## ✏ Studies
+### ▪ Programmers
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KingGyeongHoo&repo=programmers)](https://github.com/KingGyeongHoo/programmers)
+<br /><br /><br /><br />
 
 ## 📙 Education
 ### ▪ Codestates Frontend Bootcamp (2023.02~2023.08)
