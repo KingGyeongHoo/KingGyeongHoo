@@ -9,8 +9,8 @@
     </a>
   </div>
   <div align="center">
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=KingGyeongHoo&bg_color=ffffff&color=273849&line=d9f0e5&point=5fc397" alt="KingGyeongHoo" width="800">
+    <a href="https://github.com/devxb/gitanimals">
+      <img src="https://render.gitanimals.org/farms/{kinggyeonghoo}"/>
     </a>
   </div>
 </div>
