@@ -2,15 +2,18 @@
 <div>
   <div align="center" height="200">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=KingGyeongHoo&theme=vue&hide_border=true" alt="KingGyeongHoo's GitHub stats"  width="469">
+      <img src="https://github-readme-stats.vercel.app/api?username=KingGyeongHoo&theme=vue&hide_border=true" alt="KingGyeongHoo's GitHub stats"  height="240">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingGyeongHoo&layout=donut&hide_border=true" alt="Top Languages"  width="331">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingGyeongHoo&layout=donut&hide_border=true" alt="Top Languages"  height="240">
     </a>
   </div>
   <div align="center">
     <a href="https://github.com/devxb/gitanimals">
-      <img src="https://render.gitanimals.org/farms/{kinggyeonghoo}"/>
+      <img src="https://render.gitanimals.org/farms/{kinggyeonghoo}" height="240" />
+    </a>
+    <a href="https://solved.ac/fmaxgo">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fmaxgo" height="240" >
     </a>
   </div>
 </div>
