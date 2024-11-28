@@ -44,8 +44,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KingGyeongHoo&repo=codeit-todo)](https://github.com/KingGyeongHoo/codeit-todo)
 ### ▪ Tailwind Practice
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KingGyeongHoo&repo=tailwind-practice)](https://github.com/KingGyeongHoo/tailwind-practice)
-### ▪ Programmers
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KingGyeongHoo&repo=programmers)](https://github.com/KingGyeongHoo/programmers)
+### ▪ algorithm-study
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KingGyeongHoo&repo=algorithm-study)](https://github.com/KingGyeongHoo/algorithm-study)
 <br /><br /><br /><br />
 
 ## 📙 Education
