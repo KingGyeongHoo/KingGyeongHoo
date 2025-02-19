@@ -30,7 +30,7 @@
 
 ## 💼 Career
 ### ▪ 코스타 (2025.02~)
-  - Frontend Engineer
+  - 공연 관리 솔루션 '공기' Frontend Engineer
 <br /><br /><br /><br />
 
 ## 📋 Projects
