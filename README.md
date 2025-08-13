@@ -4,19 +4,18 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=KingGyeongHoo&theme=vue&hide_border=true" alt="KingGyeongHoo's GitHub stats"  height="200">
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingGyeongHoo&layout=donut&hide_border=true" alt="Top Languages"  height="200">
+   <a href="https://solved.ac/fmaxgo">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fmaxgo" height="200" >
     </a>
   </div>
   <div align="center">
     <a href="https://github.com/devxb/gitanimals">
-      <img src="https://render.gitanimals.org/farms/{kinggyeonghoo}" height="200" />
-    </a>
-    <a href="https://solved.ac/fmaxgo">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fmaxgo" height="200" >
+      <img src="https://render.gitanimals.org/farms/{kinggyeonghoo}" height="750" />
     </a>
   </div>
 </div>
+
+![3D](./profile-3d-contrib/profile-green-animate.svg)
 
 ---
 ## 🛠 Tech Stacks
