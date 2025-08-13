@@ -8,14 +8,15 @@
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fmaxgo" height="200" >
     </a>
   </div>
-  <div align="center">
+</div>
+
+![3D](./profile-3d-contrib/profile-green-animate.svg)
+
+<div align="center">
     <a href="https://github.com/devxb/gitanimals">
       <img src="https://render.gitanimals.org/farms/{kinggyeonghoo}" height="750" />
     </a>
   </div>
-</div>
-
-![3D](./profile-3d-contrib/profile-green-animate.svg)
 
 ---
 ## 🛠 Tech Stacks
