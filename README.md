@@ -31,11 +31,17 @@
 ## 💼 Career
 ### 🪙 Traverse (2025.08~)
 #### Frontend Engineer
+
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"><img src="https://img.shields.io/badge/TainwindCss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"><img src="https://img.shields.io/badge/zustand-007ACC?style=for-the-badge&logo=zotero&logoColor=white">
+
 1.국내 특화 가상자산 지갑 검증 서비스 TranSight 개발
   - 가상자산 거래 추적/분석 트랜잭션 맵 개발 및 고도화
 <br /><br />
 ### 🎭 코스타 (2025.02~2025.07)
 #### 공연 관리 솔루션 '공기' Frontend Engineer
+
+<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"><img src="https://img.shields.io/badge/TainwindCss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"><img src="https://img.shields.io/badge/zustand-007ACC?style=for-the-badge&logo=zotero&logoColor=white">
+
 1.공연 리포트 대시보드 기획 및 구현
   - Excel로 제공되던 공연 데이터를 웹 페이지로 구현
   - UI/UX 설계 및 데이터 시각화를 통해 운영 효율 극대화
