@@ -2,7 +2,7 @@
 <div>
   <div align="center" height="200">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=KingGyeongHoo&theme=vue&hide_border=true" alt="KingGyeongHoo's GitHub stats"  height="200">
+      <!-- <img src="https://github-readme-stats.vercel.app/api?username=KingGyeongHoo&theme=vue&hide_border=true" alt="KingGyeongHoo's GitHub stats"  height="200"> -->
     </a>
    <a href="https://solved.ac/fmaxgo">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fmaxgo" height="200" >
@@ -39,6 +39,10 @@
   - TranSight 홍보용 웹페이지 개발
   - 불법 지갑주소 탐색 및 동결 처리 서비스 개발 
   - 기관별 로그인 프로세스 개발
+
+2.기업 홈페이지 및 서비스 홍보 페이지 개발
+  - [TranSight 홍보 페이지](https://www.transight.io/)
+  - [Traverse Homepage](https://traverse.kr/)
 <br /><br />
 ### 🎭 코스타 (2025.02~2025.07)
 #### 공연 관리 솔루션 '공기' Frontend Engineer
