@@ -60,27 +60,6 @@
   - QR코드를 활용한 사용자 인증 및 입장 확인 시스템 구현 
 <br /><br /><br /><br />
 
-## 📋 Projects
-### ▪ 요고쏘다 (2024.10~2024.11)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KingGyeongHoo&repo=yogosoda-project)](https://github.com/KingGyeongHoo/yogosoda-project)
-### ▪ HomePredictor (2024.03~2024.04)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KingGyeongHoo&repo=homepredictor)](https://github.com/KingGyeongHoo/homepredictor)
-### ▪ Portfolio (2024.02~2024.03)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KingGyeongHoo&repo=portfolio)](https://github.com/KingGyeongHoo/portfolio)
-### ▪ CPM (2024.01~2024.02)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KingGyeongHoo&repo=cpm)](https://github.com/KingGyeongHoo/cpm)
-### ▪ Buyrricade (2023.06~2024.07)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KingGyeongHoo&repo=seb44_main_007)](https://github.com/KingGyeongHoo/seb44_main_007)
-<br /><br /><br /><br />
-## ✏ Studies
-### ▪ Codeit-Todo (2024.11)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KingGyeongHoo&repo=codeit-todo)](https://github.com/KingGyeongHoo/codeit-todo)
-### ▪ Tailwind Practice
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KingGyeongHoo&repo=tailwind-practice)](https://github.com/KingGyeongHoo/tailwind-practice)
-### ▪ algorithm-study
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KingGyeongHoo&repo=algorithm-study)](https://github.com/KingGyeongHoo/algorithm-study)
-<br /><br /><br /><br />
-
 ## 📙 Education
 ### ▪ Codestates Frontend Bootcamp (2023.02~2023.08)
 ### ▪ 동국대학교 멀티미디어공학과 (2017.03~2024.08)
